@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>rocks</title>
+    </head>
+
+    <body>
+        <h1>rocks!</h1>
+        <h2>rocks</h2>
+        <h3>Come in many shapes and sizes</h3>
+        <p>they can be shiny, dull, clear, multicolored or boring as fuck. </p>
+        <p>here are a few different types of rock within our planet</p>
+
+        <p>Global Nav</p>
+        <ul>
+            <li><a href="igneous">igneous</a></li>
+            <li><a href="metamorphic">metamoprhic</a></li>
+            <li><a href="sedimentary">sedimentary</a></li>
+            <li><a href="crystals">crystals</a></li>
+        </ul>
+
+        <p>Local Nav</p>
+        <ul>
+            <li><a href="clear rocks.html">clear rocks</a></li>
+            <li><a href="dull rocks.html">dull rocks</a></li>
+            <li><a href="shiny rocks.html">shiny rocks</a></li>
+        </ul>
+    </body>
+</html>
